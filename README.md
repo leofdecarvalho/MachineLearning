@@ -1,1 +1,1 @@
-Machine learning Udemy course
+Machine learning Udemy course. A-Z
